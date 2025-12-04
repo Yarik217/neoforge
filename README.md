@@ -1,4 +1,4 @@
-Запускает в Docker Minecraft NeoForge версии latest
-Для запуска выполнить:\n
-docker build -t neoforge:latest .\n
-docker run -d neoforge:latest
+Запускает в Docker Minecraft NeoForge версии latest<br>
+Для запуска выполнить:<br>
+docker build -t neoforge:latest<br>
+docker run -d neoforge:latest<br>
