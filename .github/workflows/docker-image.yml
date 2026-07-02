@@ -10,7 +10,7 @@ jobs:
 
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: container-registry.oracle.com/graalvm/jdk:latest
 
     steps:
     - uses: actions/checkout@v4
